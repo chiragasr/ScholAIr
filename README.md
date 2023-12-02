@@ -1,1 +1,1 @@
-# ScholarAI
+# ScholAIr
