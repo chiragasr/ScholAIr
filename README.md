@@ -2,7 +2,7 @@
 ### 2nd Place -- Hunter Hub Hackathon 2023, University of Calgary
 
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="screenshots/tracking.png">
 </p>
 
 ## Team 405 Found
@@ -16,6 +16,9 @@ An all-in-one AI-powered Scholarship application tool. Simplify the search for s
 
 ### Intuitive Application Tracking
 Easy tracking of all the scholarships.
+<p align="center">
+  <img width="600" src="screenshots/tracking.png">
+</p>
 
 ### Application Auto-Enhancement
 Allows for GPT-powered enhancement of your answers to scholarship questions, based on your profile. 
