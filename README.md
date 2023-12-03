@@ -16,6 +16,9 @@ An all-in-one AI-powered Scholarship application tool. Simplify the search for s
 
 ### Intuitive Application Tracking
 Easy tracking of all the scholarships.
+<p align="center">
+  <img width="600" src="screenshots/tracking.png">
+</p>
 
 ### Application Auto-Enhancement
 Allows for GPT-powered enhancement of your answers to scholarship questions, based on your profile. 
