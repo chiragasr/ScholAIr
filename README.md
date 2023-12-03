@@ -2,7 +2,7 @@
 ### 2nd Place -- Hunter Hub Hackathon 2023, University of Calgary
 
 <p align="center">
-  <img width="300" src="">
+  <img width="300" src="screenshots/tracking.png">
 </p>
 
 ## Team 405 Found
