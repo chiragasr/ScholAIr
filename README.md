@@ -10,6 +10,7 @@
 - Chirag Asrani
 - Sarthak Sharan
 - Zeeshan Chougle
+- Atharva Naik
 
 ## Description
 An all-in-one AI-powered Scholarship application tool. Simplify the search for scholarships, maximize your potential, and sharpen your interview skills. This app includes features like - Intuitive Application Tracking, Profile auto-enhancement, Application auto-enhancement, GPT-powered Mock Interview Prep, as well as Personalized scholarships and resource recommendations.
