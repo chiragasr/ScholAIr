@@ -1,4 +1,4 @@
-# ****ScholAIr**** (AI-powered Scholarship Application Tool)
+# ****ScholAIr (AI-powered Scholarship Application Tool) ****
 ## 2nd Place Winner - Hunter Hub Hackathon 2023, University of Calgary
 
 <p align="center">
